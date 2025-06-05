@@ -61795,7 +61795,7 @@ A.Cf.prototype={
 J(a){var s=null,r=this.c/10,q=A.mg(a,!0,t.VR).b,p=t.w,o=A.ba(a,s,p).w
 return A.nv(A.e0(s,B.zz,B.x,B.dS,new A.a9(A.ba(a,s,p).w.a.a,1/0,o.a.b+r,1/0),s,s,s,q,s,s,s,s,s),B.be,new A.qO(r))}}
 A.DL.prototype={
-J(a){var s=null,r=A.mg(a,!0,t.VR),q=A.ba(a,s,t.w).w,p=A.RZ(s,A.SP("assets/images/logo.png",B.fa,36,s),B.aN,!1,s,s,s,s,s,s,s,s,s,s,s,s,new A.Yo(r),s,s,s,s)
+J(a){var s=null,r=A.mg(a,!0,t.VR),q=A.ba(a,s,t.w).w,p=A.RZ(s,A.SP("assets/images/thijs_logo_white.webp",B.fa,36,s),B.aN,!1,s,s,s,s,s,s,s,s,s,s,s,s,new A.Yo(r),s,s,s,s)
 return A.ad9(q.a.a>800?new A.Yp(r).$0():new A.Yr(r).$0(),B.aA,!1,s,p)},
 gtM(){return B.HK}}
 A.Yr.prototype={
