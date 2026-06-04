@@ -1,0 +1,1 @@
+{"name":"CopyEmail","id":["thpir_portfolio","lib/components/copy_email.dart"],"import":"package:thpir_portfolio/components/copy_email.dart","params":[{"name":"email","isNamed":true,"decoder":"p['email'] as String","encoder":"c.email"}]}
